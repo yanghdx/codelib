@@ -12,6 +12,5 @@ package com.wd.designpattern.templatemethod;
  */
 public abstract class AbstractImage {
 
-	
 	public abstract void show();
 }

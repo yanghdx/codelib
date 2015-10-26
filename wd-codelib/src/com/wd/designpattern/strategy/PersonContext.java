@@ -2,7 +2,6 @@ package com.wd.designpattern.strategy;
 
 public class PersonContext {
 
-	
 	private ITravel travel;
 	
 	public void setTravelStrategy(ITravel travel) {
